@@ -1,1 +1,1 @@
-wordpress
+luodaoyi/kms-server
